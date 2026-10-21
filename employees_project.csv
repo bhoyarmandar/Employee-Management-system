@@ -1,0 +1,17 @@
+employee_id,name,age,department,job_role,salary,joining_date
+E101,Rahul Sharma,25,It,Python Developer,50000,12-06-23
+E102,Priya Patil,28,Hr,Hr Executive,40000,07-11-22
+E103,Amit Verma,29,Sales,Sales Associate,32000,16-08-21
+E104,Sneha Kulkarni,26,Finance,Financial Analyst,52000,20-02-23
+E105,Karan Mehta,31,It,Backend Developer,65000,13-04-20
+E106,Ananya Desai,24,Marketing,Marketing Executive,36000,08-01-24
+E107,Vikram Singh,33,Opreations,Opreation Analyst,75000,02-09-19
+E108,Neha Joshi,28,Finance,Accountant,41000,23-05-22
+E109,Arjun Nair,25,It,QA Engineer,43000,16-10-23
+E110,Pooja Shah,30,Hr,Recruiter,47000,29-03-21
+E111,Rohan Gupta,27,Sales,Sales Executive,39000,11-07-22
+E112,Ishita Rao,30,Marketing,Content Specialist,60000,03-04-23
+E113,Siddharth More,35,It,Manager,90000,10-12-18
+E114,Meera Iyer,29,Operations,Operations Analyst,49000,14-02-22
+E115,Karan Tiwari,28,It,Sde,80000,24-06-23
+E116,Umesh Yadav,33,It,Python Developer,60000,14-09-23
